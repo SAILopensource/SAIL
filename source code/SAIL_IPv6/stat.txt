@@ -1,0 +1,28 @@
+****************************************************************
+Trace: rrc16_201203012359_v6.prefix_100K.tr
+Routing Table: all.prefix
+
+			Statistical Results
+
+
+		Orignal Trie Statistical Results
+
+Level 16         Stat:	44        	44        	0         
+Level 24         Stat:	2371      	2364      	7         
+Level 32         Stat:	6555      	1860      	4695      
+Level 40         Stat:	3242      	2632      	610       
+Level 48         Stat:	6460      	273       	6187      
+Level 64         Stat:	671       	0         	671       
+
+
+		Level Pushed Trie Statistical Results
+
+Level 16         Stat:	65536     	44        	65492     
+Level 24         Stat:	11264     	2364      	8900      
+Level 32         Stat:	605184    	1860      	603324    
+Level 40         Stat:	476160    	2632      	473528    
+Level 48         Stat:	673792    	273       	673519    
+Level 64         Stat:	17891328  	0         	0         
+The sail tables consume: 2.427 MB!!!
+****************************************************************
+
