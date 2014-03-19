@@ -7,9 +7,9 @@ using namespace std;
 const char *statOutput = "stat.txt";
 const char *test = "rrc16_201203012359_v6.prefix_100K.tr";
 
-const char *output = "comm_fqb.txt";
-const char *ytOutput = "ytLevel_fqb.txt";
-const char *sailOutput = "sailTable_fqb.txt";
+const char *output = "comm.txt";
+const char *ytOutput = "ytLevel.txt";
+const char *sailOutput = "sailTable.txt";
 
 // int maxSize[TABLE_NUM] = {LEVEL16, LEVEL24, LEVEL32, LEVEL40, LEVEL48};
 
