@@ -1,7 +1,6 @@
 /*
  * @# bitType.h 2011-10-19
- * @Author: Mzaort
- */
+ **/
 #ifndef BITTYPE_H_
 #define BITTYPE_H_
 #define LENGTH 676
